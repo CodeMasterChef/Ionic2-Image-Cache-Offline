@@ -5,9 +5,11 @@ When you run this demo in browser, you can get 'Access-Control-Allow-Origin' err
 
 #How it works
 
-1. install imgcache.js with statement : `npm install imgcache.js --save`
+*1. install imgcache.js with statement : `
 
-2. install dependency plugin for imgcache.js lib: 
+npm install imgcache.js --save`
+
+*2. install dependency plugin for imgcache.js lib: 
 
 `cordova plugin add cordova-plugin-file`
 
